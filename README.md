@@ -1,4 +1,4 @@
-# 🐍 Learning Log in Python
+# 🐍 Learning Log created with Python
 A simple web application that lets you keep track of information you’ve learned about particular topics. Created using Django, deployed with Heroku.
 
 # 🔧 Requirements 
